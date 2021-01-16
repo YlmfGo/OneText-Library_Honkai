@@ -12,7 +12,7 @@
 
 将以下代码加入订阅源编辑中，即可使用。
 
-'''
+```
 {
 	"feed_name": "Honkai",
 	"feed_type": "remote",
@@ -20,4 +20,4 @@
 	"text_key": "text",
 	"from_key": "from"
 }
-'''
+```
